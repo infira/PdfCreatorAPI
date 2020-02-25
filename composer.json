@@ -1,0 +1,11 @@
+{
+  "name":        "infira/pdfcreatorapi",
+  "description": "API to use serverside HTML2PDF generator",
+  "authors":     [
+	{
+	  "name":  "gen.taliaru",
+	  "email": "gen@infira.ee"
+	}
+  ],
+  "require":     { }
+}
